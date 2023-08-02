@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+👉 Netlify: https://e-cart-angular.netlify.app/products
+
+👉 Images:
+    1.  visitors-profile
+        ![visitors-profile](https://github.com/Rohini-pr/e-cart/assets/125246758/12a1d53c-586e-4fd9-afd3-2d9f37c7d61e)
